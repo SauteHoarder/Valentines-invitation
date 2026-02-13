@@ -29,7 +29,7 @@ h1 {
     width: 20rem;
     height: 25rem;
     border-radius: 2rem;
-    background-image: url("cat-smile.gif");
+    background-image: url("img/cat-smile.gif");
     background-position: center;
     background-size: cover;
 }
